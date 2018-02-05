@@ -61,6 +61,7 @@
 ## Nodemailer 
 * [Demo 1](https://github.com/MeganMFisher/nodemailer-demo)
 * [Demo 2](https://github.com/bethtelford/nodemailer-demo)
+* [Demo 3](https://github.com/joeblank/grahams/tree/master/nodemailer-example)
 
 
 ## React-Big-Calendar
@@ -72,4 +73,8 @@
 
 
 ## Cloudinary/React Dropzone
-[Demo 1]()
+[Demo 1](https://github.com/james-carlson/cloudinary-reactdropzone)
+
+
+
+
