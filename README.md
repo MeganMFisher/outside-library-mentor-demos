@@ -71,6 +71,7 @@ Twilio allows software developers to programmatically make and receive phone cal
 
 ## React-Slick 
 Carousel component built with React. 
+* [Demo 1](https://github.com/dan-valentine/react-slick-demo)
 
 
 ## React-Big-Calendar
