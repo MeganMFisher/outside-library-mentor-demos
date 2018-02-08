@@ -120,3 +120,8 @@ React components that implement Google's Material Design.
 ## React-Photo-Gallary
 Responsive React Photo Gallery.
 * [Demo 1](https://github.com/james-carlson/react-photo-gallery-examples)
+
+
+## Google-Maps-React
+It allows you to render any React component on the Google Map.
+* [Demo 1](https://github.com/MeganMFisher/google-maps-react-demo)
