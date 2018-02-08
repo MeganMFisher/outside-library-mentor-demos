@@ -41,6 +41,7 @@ lowdb is a small local JSON database powered by Lodash
 
 ## React-chartjs
 Rich interactive react charting components using chart.js including: Line, Bar, Radar, Polar area, Pie and Doughnut charts.
+* [Demo 1](https://github.com/MeganMFisher/react-chartjs-demo)
 
 ## React-Google-Charts
 A React JS wrapper to make it easy and fun to work with Google Charts.
