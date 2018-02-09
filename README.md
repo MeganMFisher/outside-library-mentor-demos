@@ -281,71 +281,68 @@ Key: 1: super easy with awesome docs, 2: easy but requires a key or has slightly
 - Difficulty: 2
 - Example: api.openweathermap.org/data/2.5/weather?q=London,uk&APPID={api key}
 
-
-//////////////////////
-
 ## Hook Theory API 
 - Website: https://www.hooktheory.com/api/trends/docs
 - Key: Yes
 - Difficulty: 3
-Example: 
+- Example: 
 
-## 
-- Website: 
-- Key: 
-- Difficulty: 
-Example: 
+## Expedia API 
+- Website: http://developer.ean.com/docs/
+- Key: Yes
+- Difficulty: 3
+- Example: 
 
-## 
-- Website: 
-- Key: 
-- Difficulty: 
-Example: 
+## Twitter API 
+- Website: https://dev.twitter.com/rest/public 
+- Key: Yes
+- Difficulty: 3
+- Example: 
 
-## 
-- Website: 
-- Key: 
-- Difficulty: 
-Example: 
+## Instagram API 
+- Website: https://www.instagram.com/developer/
+- Key: Yes
+- Difficulty: 3
+- Example: 
 
-## 
-- Website: 
-- Key: 
-- Difficulty: 
-Example: 
+## Tumbler API 
+- Website: https://www.tumblr.com/docs/en/api/v2
+- Key: Yes
+- Difficulty: 3
+- Example: 
 
-## 
-- Website: 
-- Key: 
-- Difficulty: 
-Example: 
+## Propublica API 
+- Website: https://www.propublica.org/datastore/apis
+- Key: Yes
+- Difficulty: 3
+- Example: 
 
-## 
-- Website: 
-- Key: 
-- Difficulty: 
-Example: 
+## NY Times API 
+- Website:  http://developer.ean.com/docs/ 
+- Key: Yes
+- Difficulty: 3
+- Example: 
 
-## 
-- Website: 
-- Key: 
-- Difficulty: 
-Example: 
+## Giant Bomb API 
+- Website: https://www.giantbomb.com/api/ 
+- Key: Yes
+- Difficulty: 3
+- Example: 
 
-## 
-- Website: 
-- Key: 
-- Difficulty: 
-Example: 
+## Steam API 
+- Website: https://steamcommunity.com/dev 
+- Key: Yes
+- Difficulty: 3
+- Example: 
 
-## 
-- Website: 
-- Key: 
-- Difficulty: 
-Example: 
+## Mapbox API 
+- Website: https://www.mapbox.com/mapbox.js/api/v3.1.1/
+- Key: Yes
+- Difficulty: 3
+- Example: 
 
-## 
-- Website: 
-- Key: 
-- Difficulty: 
-Example: 
+## Google Maps API 
+- Website: https://developers.google.com/maps/ 
+- Key: Yes
+- Difficulty: 3
+- Example: 
