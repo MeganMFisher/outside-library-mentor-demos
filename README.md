@@ -140,152 +140,212 @@ It allows you to render any React component on the Google Map.
 Key: 1: super easy with awesome docs, 2: easy but requires a key or has slightly more difficult to understand docs, 3: not so easy
 
 ## Nasa Fireball/Bolide API
-Website: https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum	
-Key: No	
-Difficulty: 1
-Example: https://data.nasa.gov/resource/2af2-m89m.json
+- Website: https://data.nasa.gov/Space-Science/Fireball-And-Bolide-Reports/mc52-syum	
+- Key: No	
+- Difficulty: 1
+- Example: https://data.nasa.gov/resource/2af2-m89m.json
 
 ## Nasa Astronomy Pic of the Day API
-Website: https://api.nasa.gov/api.html#apod
-Key: Yes
-Difficulty: 2
-Example: https://api.nasa.gov/planetary/apod?api_key=YOUR_API_KEY
+- Website: https://api.nasa.gov/api.html#apod
+- Key: Yes
+- Difficulty: 2
+- Example: https://api.nasa.gov/planetary/apod?api_key=YOUR_API_KEY
 
 ## Nasa Sounds API
-Website: https://api.nasa.gov/api.html#sounds
-Key: Yes 
-Difficulty: 2
-Example: https://api.nasa.gov/planetary/sounds?q=apollo&api_key=DEMO_KEY
+- Website: https://api.nasa.gov/api.html#sounds
+- Key: Yes 
+- Difficulty: 2
+- Example: https://api.nasa.gov/planetary/sounds?q=apollo&api_key=DEMO_KEY
 
 ## Nasa Astroids API
-Website: https://api.nasa.gov/api.html#NeoWS
-Key: Yes
-Difficulty: 2
-Example: https://api.nasa.gov/neo/rest/v1/feed?start_date=2015-09-07&end_date=2015-09-08&api_key=DEMO_KEY
+- Website: https://api.nasa.gov/api.html#NeoWS
+- Key: Yes
+- Difficulty: 2
+- Example: https://api.nasa.gov/neo/rest/v1/feed?start_date=2015-09-07&end_date=2015-09-08&api_key=DEMO_KEY
 
 ## Swapi - Star Wars
-Website: https://swapi.co/
-Key: No
-Difficulty: 1
-Example: https://swapi.co/api/people2
+- Website: https://swapi.co/
+- Key: No
+- Difficulty: 1
+- Example: https://swapi.co/api/people2
 
 ## Unsplash - Photos API 
-Website: https://source.unsplash.com/
-Key: Yes
-Difficulty: 2
-Example: https://api.unsplash.com/photos/random?client_id=YOUR_APPLICATION_ID
+- Website: https://source.unsplash.com/
+- Key: Yes
+- Difficulty: 2
+- Example: https://api.unsplash.com/photos/random?client_id=YOUR_APPLICATION_ID
 
 ## RandomUser Information API 
-Website: https://randomuser.me/
-Key: No
-Difficulty: 1
-Example: https://randomuser.me/api/
+- Website: https://randomuser.me/
+- Key: No
+- Difficulty: 1
+- Example: https://randomuser.me/api/
 
 ## The Movie DB API
-Website: https://www.themoviedb.org/documentation/api
-Key: Yes
-Difficulty: 2
-Example: http://api.themoviedb.org/3/discover/movie?primary_release_year=2017&api_key={key here}'
+- Website: https://www.themoviedb.org/documentation/api
+- Key: Yes
+- Difficulty: 2
+- Example: http://api.themoviedb.org/3/discover/movie?primary_release_year=2017&api_key={key here}'
 
 ## Random Quotes API 
-Website: https://forismatic.com/en/
-Key: No
-Difficulty: 2
-Example: https://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en
+- Website: https://forismatic.com/en/
+- Key: No
+- Difficulty: 2
+- Example: https://api.forismatic.com/api/1.0/?method=getQuote&format=json&lang=en
 
 ## Pokeapi - Pokemon API 
-Website: https://pokeapi.co/
-Key: No
-Difficulty: 1
-Example: http://pokeapi.co/api/v2/pokemon/1/
+- Website: https://pokeapi.co/
+- Key: No
+- Difficulty: 1
+- Example: http://pokeapi.co/api/v2/pokemon/1/
 
 ## Giphy API 
-Website: http://api.giphy.com/
-Key: Yes
-Difficulty: 2
-Example: http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=YOUR_API_KEY
+- Website: http://api.giphy.com/
+- Key: Yes
+- Difficulty: 2
+- Example: http://api.giphy.com/v1/gifs/search?q=funny+cat&api_key=YOUR_API_KEY
 
 ## Wunderground Weather API 
-Website: https://www.wunderground.com/weather/api/
-Key: Yes
-Difficulty: 2
-Example: http://api.wunderground.com/api/Your_Key/conditions/q/CA/San_Francisco.json
+- Website: https://www.wunderground.com/weather/api/
+- Key: Yes
+- Difficulty: 2
+- Example: http://api.wunderground.com/api/Your_Key/conditions/q/CA/San_Francisco.json
 
 ## Dark Sky Weather API 
-Website: https://darksky.net/dev
-Key: Yes
-Difficulty: 1
-Example: https://api.darksky.net/forecast/[key]/[latitude],[longitude]
+- Website: https://darksky.net/dev
+- Key: Yes
+- Difficulty: 1
+- Example: https://api.darksky.net/forecast/[key]/[latitude],[longitude]
 
 ## Sunrise & Sunset Times API 
-Website: https://sunrise-sunset.org/api
-Key: No
-Difficulty: 1
-Example: https://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400&date=today
+- Website: https://sunrise-sunset.org/api
+- Key: No
+- Difficulty: 1
+- Example: https://api.sunrise-sunset.org/json?lat=36.7201600&lng=-4.4203400&date=today
 
 ## Number of people in Space API 
-Website: http://api.open-notify.org/
-Key: No
-Difficulty: 1
-Example: http://api.open-notify.org/astros.json
+- Website: http://api.open-notify.org/
+- Key: No
+- Difficulty: 1
+- Example: http://api.open-notify.org/astros.json
 
 ## Space Station Current Location
-Website: http://api.open-notify.org/
-Key: No
-Difficulty: 1
-Example: http://api.open-notify.org/iss-now.json
+- Website: http://api.open-notify.org/
+- Key: No
+- Difficulty: 1
+- Example: http://api.open-notify.org/iss-now.json
 
 ## Openaq Air Quality
-Website: https://api.openaq.org/v1
-Key: No
-Difficulty: 1
-Example: https://api.openaq.org/v1/countries
+- Website: https://api.openaq.org/v1
+- Key: No
+- Difficulty: 1
+- Example: https://api.openaq.org/v1/countries
 
 ## Google - Search address of location API 
-Key: No 
-Difficulty: 1
-Example: https://maps.googleapis.com/maps/api/geocode/json?address=provo%20utah%20uk&sensor=false
+- Key: No 
+- Difficulty: 1
+- Example: https://maps.googleapis.com/maps/api/geocode/json?address=provo%20utah%20uk&sensor=false
 
 ## newsApi - Top News Stories API 
-Website: https://newsapi.org/
-Key: Yes
-Difficulty: 1
-Example: https://newsapi.org/v1/articles?source=bbc-news&sortBy=top&apiKey={api key}
+- Website: https://newsapi.org/
+- Key: Yes
+- Difficulty: 1
+- Example: https://newsapi.org/v1/articles?source=bbc-news&sortBy=top&apiKey={api key}
 
 ## Food2Fork- Recipes API 
-Website: https://food2fork.com/about/api
-Key: Yes
-Difficulty: 2
-Example: http://food2fork.com/api/search?key={API_KEY}&q=shredded%20chicken
+- Website: https://food2fork.com/about/api
+- Key: Yes
+- Difficulty: 2
+- Example: http://food2fork.com/api/search?key={API_KEY}&q=shredded%20chicken
 
 ## Itunes - Music API 
-Website: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
-Key: No
-Difficulty: 1
-Example: https://itunes.apple.com/search?term=shiny+toy+guns
+- Website: https://affiliate.itunes.apple.com/resources/documentation/itunes-store-web-service-search-api/
+- Key: No
+- Difficulty: 1
+- Example: https://itunes.apple.com/search?term=shiny+toy+guns
 
 ## Restcountries - Country Information API 
-Website: https://restcountries.eu/
-Key: No
-Difficulty: 1
-Example: https://restcountries.eu/rest/v2/all
+- Website: https://restcountries.eu/
+- Key: No
+- Difficulty: 1
+- Example: https://restcountries.eu/rest/v2/all
 
 ## DevMountain Clothing Products API 
-Key: No
-Difficulty: 1
-Example: https://practiceapi.devmountain.com/products
+- Key: No
+- Difficulty: 1
+- Example: https://practiceapi.devmountain.com/products
 
 ## Open Weather Map Weather API 
-Website: http://openweathermap.org/api
-Key: Yes
-Difficulty: 2
-Example: api.openweathermap.org/data/2.5/weather?q=London,uk&APPID={api key}
+- Website: http://openweathermap.org/api
+- Key: Yes
+- Difficulty: 2
+- Example: api.openweathermap.org/data/2.5/weather?q=London,uk&APPID={api key}
 
 
 //////////////////////
 
 ## Hook Theory API 
-Website: https://www.hooktheory.com/api/trends/docs
-Key: Yes
-Difficulty: 3
+- Website: https://www.hooktheory.com/api/trends/docs
+- Key: Yes
+- Difficulty: 3
+Example: 
+
+## 
+- Website: 
+- Key: 
+- Difficulty: 
+Example: 
+
+## 
+- Website: 
+- Key: 
+- Difficulty: 
+Example: 
+
+## 
+- Website: 
+- Key: 
+- Difficulty: 
+Example: 
+
+## 
+- Website: 
+- Key: 
+- Difficulty: 
+Example: 
+
+## 
+- Website: 
+- Key: 
+- Difficulty: 
+Example: 
+
+## 
+- Website: 
+- Key: 
+- Difficulty: 
+Example: 
+
+## 
+- Website: 
+- Key: 
+- Difficulty: 
+Example: 
+
+## 
+- Website: 
+- Key: 
+- Difficulty: 
+Example: 
+
+## 
+- Website: 
+- Key: 
+- Difficulty: 
+Example: 
+
+## 
+- Website: 
+- Key: 
+- Difficulty: 
 Example: 
