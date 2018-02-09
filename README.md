@@ -1,5 +1,6 @@
-# Outside Library Demos
+This repo is for mentor use only to help students with any issues they may face while using any of the following libraries and APIs. No examples or demo should be given directly to the student. This is just to help the mentors help the students. 
 
+# Outside Library Demos
 
 # Animations: 
 
