@@ -288,24 +288,6 @@ Key: 1: super easy with awesome docs, 2: easy but requires a key or has slightly
 - Difficulty: 3
 - Example: 
 
-## Expedia API 
-- Website: http://developer.ean.com/docs/
-- Key: Yes
-- Difficulty: 3
-- Example: 
-
-## Twitter API 
-- Website: https://dev.twitter.com/rest/public 
-- Key: Yes
-- Difficulty: 3
-- Example: 
-
-## Instagram API 
-- Website: https://www.instagram.com/developer/
-- Key: Yes
-- Difficulty: 3
-- Example: 
-
 ## Tumbler API 
 - Website: https://www.tumblr.com/docs/en/api/v2
 - Key: Yes
@@ -319,31 +301,34 @@ Key: 1: super easy with awesome docs, 2: easy but requires a key or has slightly
 - Example: 
 
 ## NY Times API 
-- Website:  http://developer.ean.com/docs/ 
+- Website:  https://developer.nytimes.com/
 - Key: Yes
 - Difficulty: 3
-- Example: 
-
-## Giant Bomb API 
-- Website: https://www.giantbomb.com/api/ 
-- Key: Yes
-- Difficulty: 3
-- Example: 
-
-## Steam API 
-- Website: https://steamcommunity.com/dev 
-- Key: Yes
-- Difficulty: 3
-- Example: 
-
-## Mapbox API 
-- Website: https://www.mapbox.com/mapbox.js/api/v3.1.1/
-- Key: Yes
-- Difficulty: 3
-- Example: 
+- Example: https://api.nytimes.com/svc/archive/v1/2016/1.json?api-key={YOUR-API-KEY}
 
 ## Google Maps API 
 - Website: https://developers.google.com/maps/ 
+- Key: Yes
+- Difficulty: 3
+- Example: 
+
+## Google Books API
+- Website: https://developers.google.com/books/
+- Key: No
+- Difficulty: 2
+- Example: https://www.googleapis.com/books/v1/volumes?q=isbn:0747532699
+
+
+# Embeding 
+
+## Embed Twitter Feed 
+- Website: https://dev.twitter.com/rest/public 
+- Key: Yes
+- Difficulty: 3
+- Example: 
+
+## Instagram API 
+- Website: https://www.instagram.com/developer/
 - Key: Yes
 - Difficulty: 3
 - Example: 
