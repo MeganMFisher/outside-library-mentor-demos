@@ -304,7 +304,7 @@ Key: 1: super easy with awesome docs, 2: easy but requires a key or has slightly
 - Website:  https://developer.nytimes.com/
 - Key: Yes
 - Difficulty: 3
-- Example: https://api.nytimes.com/svc/archive/v1/2016/1.json?api-key={YOUR-API-KEY}
+- Examples: https://api.nytimes.com/svc/archive/v1/2016/1.json?api-key={YOUR-API-KEY},  https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.json?api-key={YOUR-API-KEY}, https://api.nytimes.com/svc/topstories/v2/home.json?api-key={YOUR-API-KEY}
 
 ## Google Maps API 
 - Website: https://developers.google.com/maps/ 
