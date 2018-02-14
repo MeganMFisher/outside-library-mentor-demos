@@ -2,7 +2,6 @@ This repo is for mentor use only to help students with any issues they may face 
 
 # Outside Library Demos
 
-# Animations: 
 
 ## React-Flip-Move
 Effortless animation between DOM changes (eg. list reordering) using the FLIP technique.
@@ -13,14 +12,13 @@ Effortless animation between DOM changes (eg. list reordering) using the FLIP te
 Animation of Scalable Vector Graphics, an open XML-based standard vector graphics format, is possible through various means: Scripting: ECMAScript is a primary means of creating animations and interactive user interfaces within SVG.
 * [Demo 1](https://github.com/emkeator/svg-animations)
 
+
 ## React Motion
 React Motion is an amazing animation library for React. React Motion UI Pack tries to help ease entry level / common use cases with React Motion by providing a higher level way to work with it and create common UI transitions easier.
 * [Demo 1](https://github.com/MeganMFisher/react-motion-demo)
 * [Demo 2](https://github.com/spcbrn/react-motion-sandbox)
 * [Demo 3](https://github.com/emkeator/react-motion-demo)
 
-
-# Storage: 
 
 ## Cloudinary/React Dropzone
 Cloudinary is an end-to-end image management solution for your website and mobile apps. Cloudinary covers everything from image uploads, storage, manipulations, optimizations to delivery. You can easily upload images to the cloud, automatically perform smart image manipulations without installing any complex software.
@@ -37,9 +35,6 @@ lowdb is a small local JSON database powered by Lodash
 * [Demo 1](https://github.com/MeganMFisher/react-lowdb-demo)
 
 
-
-# Charts:
-
 ## React-chartjs
 Rich interactive react charting components using chart.js including: Line, Bar, Radar, Polar area, Pie and Doughnut charts.
 * [Demo 1](https://github.com/MeganMFisher/react-chartjs-demo)
@@ -48,8 +43,6 @@ Rich interactive react charting components using chart.js including: Line, Bar, 
 A React JS wrapper to make it easy and fun to work with Google Charts.
 * [Demo 1](https://github.com/MeganMFisher/react-google-charts-demo)
 
-
-# Communication: 
 
 ## Socket.io
 Socket.IO is a JavaScript library for realtime web applications. It enables realtime, bi-directional communication between web clients and servers.
@@ -71,10 +64,6 @@ Twilio allows software developers to programmatically make and receive phone cal
 Social media share buttons and share counts for React.
 *[Demo 1](https://github.com/dan-valentine/react-share-demo)
 
-
-
-
-# Other: 
 
 ## React-Slick 
 Carousel component built with React. 
@@ -306,22 +295,13 @@ Key: 1: super easy with awesome docs, 2: easy but requires a key or has slightly
 - Difficulty: 3
 - Examples: https://api.nytimes.com/svc/archive/v1/2016/1.json?api-key={YOUR-API-KEY},  https://api.nytimes.com/svc/books/v3/lists/best-sellers/history.json?api-key={YOUR-API-KEY}, https://api.nytimes.com/svc/topstories/v2/home.json?api-key={YOUR-API-KEY}
 
-## Google Maps API 
-- Website: https://developers.google.com/maps/ 
-- Key: Yes
-- Difficulty: 3
-- Example: 
-
 ## Google Books API
 - Website: https://developers.google.com/books/
 - Key: No
 - Difficulty: 2
 - Example: https://www.googleapis.com/books/v1/volumes?q=isbn:0747532699
 
-
-# Embeding 
-
-## Embed Twitter Feed 
+## Twitter API
 - Website: https://dev.twitter.com/rest/public 
 - Key: Yes
 - Difficulty: 3
