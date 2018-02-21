@@ -62,7 +62,7 @@ Twilio allows software developers to programmatically make and receive phone cal
 
 ## React-Share
 Social media share buttons and share counts for React.
-*[Demo 1](https://github.com/dan-valentine/react-share-demo)
+* [Demo 1](https://github.com/dan-valentine/react-share-demo)
 
 
 ## React-Slick 
